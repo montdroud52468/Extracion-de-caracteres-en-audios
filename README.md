@@ -16,9 +16,11 @@ ESPECTRO DE SONIDO PERRO
 ![image](https://user-images.githubusercontent.com/39661323/145274315-878a28a2-07ed-4f06-b048-310216928bfe.png)
 
 ONDAS DE AUDIO CLAXON
+
 ![image](https://user-images.githubusercontent.com/39661323/145275143-1aa8f032-4804-41ed-9d56-2ae0d1a0d449.png)
 
 ESPECTRO DE SONIDO CLAXON
+
 ![image](https://user-images.githubusercontent.com/39661323/145275291-0984efdd-b823-407a-be88-e60cc129eedd.png)
 
 
