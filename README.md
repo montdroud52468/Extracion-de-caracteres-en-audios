@@ -8,9 +8,11 @@ Esta libreria solo permite archivos con formato WAV, yo estuve intentando usar o
 Primero analizamos el audio de un ladrido de perro y obtenemos lo siguiente 
 
 ONDAS DE AUDIO PERRO
+
 ![image](https://user-images.githubusercontent.com/39661323/145274267-5dd9f93c-65fb-42e1-b9d5-26eb02b1d279.png)
 
 ESPECTRO DE SONIDO PERRO
+
 ![image](https://user-images.githubusercontent.com/39661323/145274315-878a28a2-07ed-4f06-b048-310216928bfe.png)
 
 ONDAS DE AUDIO CLAXON
